@@ -18,6 +18,7 @@ nav {
 nav a {
     padding-left: 5px;
     padding-right: 5px;
+    border: #133926 solid 2px;
 }
 main {
     padding-top: 1px;
