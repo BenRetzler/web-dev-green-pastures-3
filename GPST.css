@@ -5,9 +5,14 @@ body {
 header {
     background-color: #00B386;
     color: #FFFFFF;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
 }
 nav {
-    background-color:#70DBDB;
+    background-color:white;
+    text-align: center;
+    padding: 10px;
 }
 h2 {
     color: #00664D;
@@ -25,10 +30,10 @@ h1 {
     margin-bottom: 0;
 }
 #wrapper {
-    width:80%;
-    text-align:auto;
-    min-width:900px;
-    max-width:2050px;
+    width: 80%;
+    text-align: center;
+    min-width: 900px;
+    max-width: 2050px;
     background-color: #FFFFFF;
     box-shadow: 4px 4px #133926;
 }
