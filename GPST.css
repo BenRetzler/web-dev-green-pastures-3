@@ -39,6 +39,9 @@ dt {
 h1 {
     margin-bottom: 0;
 }
+footer {
+    padding: 15px;
+}
 #wrapper {
     width: 80%;
     margin: auto;
