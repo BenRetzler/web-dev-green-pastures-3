@@ -31,7 +31,7 @@ h1 {
 }
 #wrapper {
     width: 80%;
-    text-align: center;
+    align-self: center;
     min-width: 900px;
     max-width: 2050px;
     background-color: #FFFFFF;
