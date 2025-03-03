@@ -24,3 +24,6 @@ dt {
 h1 {
     margin-bottom: 0;
 }
+#wrapper {
+    width:85%;
+}
