@@ -18,18 +18,10 @@ nav {
 nav a {
     padding-left: 5px;
     padding-right: 5px;
-    border: #133926 solid 2px;
     margin-left: 5px;
     margin-right: 5px;
     font-family: sans-serif;
-    text-decoration: none;
     text-align: center;
-}
-nav a:hover {
-    margin-left: 4px;
-    margin-right: 4px;
-    border: #133926 solid 3px;
-    background-color: #70DBDB;
 }
 main {
     padding-top: 1px;
