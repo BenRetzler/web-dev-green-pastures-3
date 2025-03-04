@@ -59,14 +59,19 @@ dt {
 }
 .barn {
     color: #70DBDB;
+    font-weight: bold;
 }
 #barn {
     color: #70DBDB;
+    font-weight: bold;
 }
 
 footer {
     padding: 15px;
     text-align: center;
+    font-size: 75%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #wrapper {
     width: 80%;
