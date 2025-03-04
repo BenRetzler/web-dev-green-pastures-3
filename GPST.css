@@ -51,6 +51,9 @@ h2 {
 h3 {
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
+ul {
+    list-style-image: url(assets/marker.gif);
+}
 dt {
     color: #00664D;
 }
